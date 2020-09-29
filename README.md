@@ -44,7 +44,7 @@ I aspire to learn and add value at the same time. So come let's grow together. T
 </a>  
   
 <a href="https://github.com/imbalram/imbalram">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imbalram&title_color=fffffff&icon_color=000000&text_color=000000" alt="Shantanil's github stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imbalram&title_color=fffffff&icon_color=#000000&text_color=000000" alt="Shantanil's github stats" />
 
 </a>
 
