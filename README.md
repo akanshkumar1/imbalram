@@ -11,7 +11,7 @@
 # <h1 align="center"> <font color="red">HOLA 👋, you are at Balram's profile</font></h1> 
 
 <h1 align="center">
-<img src="https://github.com/tirthajyoti/Data-science-best-resources/blob/master/images/Data_Science_1.png">
+<a src="https://github.com/imbalram"><img src="https://github.com/tirthajyoti/Data-science-best-resources/blob/master/images/Data_Science_1.png"></a>
 </h1>
   
 
