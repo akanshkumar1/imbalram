@@ -11,7 +11,7 @@
 # <h1 align="center"> Welcome 👋</h1> 
 
 <h1 align="center">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.datanami.com%2F2018%2F09%2F17%2Fimproving-your-odds-with-data-science-hiring%2F&psig=AOvVaw3dPTJ8qCOWNBYRANeLkI7v&ust=1601434417475000&source=images&cd=vfe&ved=2ahUKEwiMovmdro3sAhUB-jgGHXRsAI0QjRx6BAgAEAc">
+<img src="https://github.com/tirthajyoti/Data-science-best-resources/blob/master/images/Data_Science_1.png">
 </h1>
   
 
