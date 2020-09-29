@@ -1,9 +1,9 @@
-![Profile views](https://komarev.com/ghpvc/?username=Shantanil)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/ShantanilBagchi)](https://badges.pufler.dev)
-<!--[![Years Badge](https://badges.pufler.dev/years/ShantanilBagchi)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/ShantanilBagchi)](https://badges.pufler.dev)
-[![Updated Badge](https://badges.pufler.dev/updated/ShantanilBagchi/ShantanilBagchi)](https://badges.pufler.dev)
-[![Created Badge](https://badges.pufler.dev/created/ShantanilBagchi/ShantanilBagchi)](https://badges.pufler.dev)-->
+![Profile views](https://komarev.com/ghpvc/?username=imbalram)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/imbalram)](https://badges.pufler.dev)
+<!--[![Years Badge](https://badges.pufler.dev/years/imbalram)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/imbalram)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/imbalram/imbalram)](https://badges.pufler.dev)
+[![Created Badge](https://badges.pufler.dev/created/imbalram/imbalram)](https://badges.pufler.dev)-->
 
 
 
@@ -11,7 +11,7 @@
 # <h1 align="center"> Welcome 👋</h1> 
 
 <h1 align="center">
-<img src="https://github.com/ShantanilBagchi/ShantanilBagchi/blob/master/Linkedin%20Banner.png">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.datanami.com%2F2018%2F09%2F17%2Fimproving-your-odds-with-data-science-hiring%2F&psig=AOvVaw3dPTJ8qCOWNBYRANeLkI7v&ust=1601434417475000&source=images&cd=vfe&ved=2ahUKEwiMovmdro3sAhUB-jgGHXRsAI0QjRx6BAgAEAc">
 </h1>
   
 
@@ -21,7 +21,7 @@
 
 <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" align = "right">
 
-Hey! I'm Shantanil! 👋🏻 I'm an aspiring data scientist dedicated to finding insights in data as well as educating others in data analytics! Let's connect!
+Hey! I'm Balram! 👋🏻 I'm an aspiring data scientist dedicated to finding insights in data as well as educating others in data analytics! Let's connect!
 
 📊 I was first introduced to the world of Data Analytics while working as a control engineer in the energy sector for a Fortune 500 company. Although, at that time, the term Data science wasn’t this famous. Nonetheless, I understood that any industry generated a lot of data and not tapping into them is a waste of valuable insights. I used automation and generated insights using Excel at that time.
 
@@ -39,12 +39,12 @@ I aspire to learn and add value at the same time. So come let's grow together. T
 
 
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/ShantanilBagchi/ShantanilBagchi">
+<a href="https://github.com/imbalram/imbalram">
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=shantanilbagchi&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="Shantanil's github stats"/>
 </a>  
   
-<a href="https://github.com/ShantanilBagchi/ShantanilBagchi">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantanilbagchi&title_color=fffffff&icon_color=000000&text_color=000000" alt="Shantanil's github stats" />
+<a href="https://github.com/imbalram/imbalram">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imbalram&title_color=fffffff&icon_color=000000&text_color=000000" alt="Shantanil's github stats" />
 
 </a>
 
