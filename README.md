@@ -8,7 +8,7 @@
 
 
 
-# <h1 align="center"> HOLA 👋, you are at Balram's profile</h1> 
+# <h1 align="center"> <font color="red">HOLA 👋, you are at Balram's profile</font></h1> 
 
 <h1 align="center">
 <img src="https://github.com/tirthajyoti/Data-science-best-resources/blob/master/images/Data_Science_1.png">
