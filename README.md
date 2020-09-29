@@ -35,7 +35,7 @@ Hey! I'm Balram! 👋🏻 I'm an aspiring data scientist dedicated to finding in
 
 💬 Message me to talk about: how to get started in data science, what's it like pursuing master’s at McGill or in Canada, what resources I am using to learn data science, and how to stay motivated when you are self-learning even if you aren’t from a computer science background.
 
-I aspire to learn and add value at the same time. So come let's grow together. Thank you for viewing my profile. Email me at shantanil.bagchi@mail.mcgill.ca
+I aspire to learn and add value at the same time. So come let's grow together. Thank you for viewing my profile. Email me at thakurbalram847409@gmail.com
 
 
 ## &#x1f4c8; GitHub Stats
