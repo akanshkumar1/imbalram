@@ -40,7 +40,7 @@ I aspire to learn and add value at the same time. So come let's grow together. T
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/imbalram/imbalram">
-  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=imbalram&show_icons=true&title_color=fffffff&icon_color=#000000&text_color=#000000" alt="Shantanil's github stats"/>
+  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=imbalram&show_icons=true&title_color=fffffff&icon_color=#000000&text_color=191919" alt="Shantanil's github stats"/>
 </a>  
   
 <a href="https://github.com/imbalram/imbalram">
