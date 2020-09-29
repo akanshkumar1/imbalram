@@ -22,6 +22,7 @@
 <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" align = "right">
 
 Hey! I'm Balram! 👋🏻 I'm an aspiring data scientist dedicated to finding insights in data as well as educating others in data analytics! Let's connect!
+ My linkendln-: (https://www.linkedin.com/in/balram-thakur-49ba14191/)
 
 📊 I was first introduced to the world of Data Analytics while working as a control engineer in the energy sector for a Fortune 500 company. Although, at that time, the term Data science wasn’t this famous. Nonetheless, I understood that any industry generated a lot of data and not tapping into them is a waste of valuable insights. I used automation and generated insights using Excel at that time.
 
